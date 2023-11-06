@@ -1,0 +1,117 @@
+h1 {
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px;
+    justify-content: center;
+}
+
+.ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+.a {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.wands:hover {
+    display: flex;
+    justify-content: space-evenly;
+    background: plum;
+}
+
+.carpets:hover {
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: inset 0 0 0 23px plum;
+}
+
+.potions {
+    display: flex;
+    justify-content: center;
+}
+
+.cauldrons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+#d {
+    height: 300px;
+}
+
+#p {
+    height: 300px;
+}
+
+#v {
+    height: 300px;
+}
+
+#blue {
+    height: 400px;
+}
+
+#green {
+    height: 400px;
+}
+
+#red {
+    height: 400px;
+}
+
+#bp {
+    height: 400px;
+    width: 500px;
+}
+
+#gp {
+    height: 400px;
+    width: 500px;
+}
+
+#rp {
+    height: 400px;
+    width: 500px;
+}
+
+#tc {
+    height: 400px;
+}
+
+#fc {
+    height: 400px;
+}
+
+#ec {
+    height: 400px;
+}
